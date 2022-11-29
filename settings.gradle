@@ -1,0 +1,3 @@
+rootProject.name = "VipDialog"
+include ':app'
+include ':vip_dialog'

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dialog_bottom_array">
+        <item>微信</item>
+        <item>朋友圈</item>
+        <item>QQ</item>
+        <item>微博</item>
+    </string-array>
+    <string-array name="dialog_bottom_ic">
+        <item>@drawable/common_ic_weixin</item>
+        <item>@drawable/common_ic_pyq</item>
+        <item>@drawable/common_ic_qq</item>
+        <item>@drawable/common_ic_weibo</item>
+    </string-array>
+
+</resources>

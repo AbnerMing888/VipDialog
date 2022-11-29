@@ -1,0 +1,5 @@
+apply from: "${rootProject.rootDir}/dialog.gradle"
+project.ext.setAppDefaultConfig project
+dependencies {
+    implementation "com.vip:dialog:1.0.0"
+}

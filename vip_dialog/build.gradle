@@ -1,0 +1,5 @@
+apply from: "${rootProject.rootDir}/dialog.gradle"
+project.ext.setAppOrLibDefaultConfig project
+android {
+    buildFeatures.dataBinding = true
+}
