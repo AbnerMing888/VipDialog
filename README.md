@@ -33,7 +33,7 @@ dependencies {
                     }
                 }
 ```
-1、DataBinding形式调用。
+2、DataBinding形式调用。
 ```kotlin
  showVipDialog {
                     addLayout(R.layout.layout_dialog_custom)//添加弹出的视图
@@ -46,6 +46,9 @@ dependencies {
                 }
 ```
 
+## 学习文档
+
+[简单封装一个易拓展的Dialog](https://mp.weixin.qq.com/s/7f1vugyLsJKc6DiwtXVZ-A)
 
 ## Demo效果预览
 
